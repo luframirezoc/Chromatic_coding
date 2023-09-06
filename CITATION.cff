@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ramirez
+    given-names: Luisa
+    orcid: https://orcid.org/0000-0002-8052-3260
+title: "Chromatic coding repository"
+Associated-publication-DOI: https://doi.org/10.1523/ENEURO.0397-22.2022
+date-released: 2022
